@@ -30,7 +30,10 @@ Unit tests for summarization function
 
 Integration test for Gemini API
 
-#Results
+Results
 Summary output is generally within 30-40% of original length.
 
 Gemini model successfully identifies core ideas in long paragraphs.
+
+![Screenshot 2025-07-05 142808](https://github.com/user-attachments/assets/26832cb0-b4c3-40aa-a361-ffdce5d11ff7)
+
