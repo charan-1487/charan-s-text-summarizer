@@ -20,6 +20,8 @@ Streamlit
 
 Gemini 1.5 Flash API (via google.generativeai SDK)
 
+
+
 Manual Testing
 Input various lengths of text and validate output quality.
 
@@ -29,6 +31,8 @@ Automated Testing (Optional Future Enhancement)
 Unit tests for summarization function
 
 Integration test for Gemini API
+
+
 
 Results
 Summary output is generally within 30-40% of original length.
