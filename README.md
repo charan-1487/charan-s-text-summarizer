@@ -3,6 +3,7 @@
 This project is a simple yet powerful web application built using Streamlit that leverages Google Gemini 1.5 Flash API to perform AI-powered text summarization. Users can input any text, and the app generates a concise summary instantly using Google's state-of-the-art LLM.
 
 Features
+
 🔹 Accepts raw text input from the user
 
 🔹 Uses Gemini 1.5 Flash model for fast and accurate summarization
